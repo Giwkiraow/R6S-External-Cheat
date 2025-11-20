@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{710AA8C3-3E3E-4BEE-BF73-5891B184CFF1}") = "R6S-External-Cheat", "R6S-External-Cheat\R6S-External-Cheat.vcxproj", "{F37158FE-2549-416C-B649-827C8CD819C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37158FE-2549-416C-B649-827C8CD819C3}.Debug|x64.ActiveCfg = Debug|x64
+		{F37158FE-2549-416C-B649-827C8CD819C3}.Debug|x64.Build.0 = Debug|x64
+		{F37158FE-2549-416C-B649-827C8CD819C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{F37158FE-2549-416C-B649-827C8CD819C3}.Debug|x86.Build.0 = Debug|Win32
+		{F37158FE-2549-416C-B649-827C8CD819C3}.Release|x64.ActiveCfg = Release|x64
+		{F37158FE-2549-416C-B649-827C8CD819C3}.Release|x64.Build.0 = Release|x64
+		{F37158FE-2549-416C-B649-827C8CD819C3}.Release|x86.ActiveCfg = Release|Win32
+		{F37158FE-2549-416C-B649-827C8CD819C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2DC71B-163B-4358-B969-81E455FD7FC0}
+	EndGlobalSection
+EndGlobal
